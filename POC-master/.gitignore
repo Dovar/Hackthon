@@ -1,0 +1,4 @@
+.history
+/Back/node_modules
+/Front/node_modules
+.env
